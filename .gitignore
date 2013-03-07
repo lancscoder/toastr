@@ -1,8 +1,6 @@
 
 # Ignore Visual Studio  Project #
-###################
 *.config
-*.user
 *.csproj
 *.gpState
 *.sln
